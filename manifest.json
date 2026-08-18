@@ -1,0 +1,16 @@
+{
+  "name": "Week planner",
+  "short_name": "Planner",
+  "display": "standalone",
+  "background_color": "#0f1518",
+  "theme_color": "#0f1518",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='30' fill='%230f1518'/%3E%3Crect x='26' y='30' width='140' height='20' fill='%23e9eef1'/%3E%3Crect x='26' y='66' width='62' height='18' fill='%23f0e14f'/%3E%3Crect x='104' y='66' width='62' height='18' fill='%235ec8e8'/%3E%3Crect x='26' y='96' width='62' height='18' fill='%23f28f36'/%3E%3Crect x='104' y='96' width='62' height='18' fill='%238ed24d'/%3E%3Crect x='26' y='126' width='140' height='18' fill='%236e7c86'/%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
